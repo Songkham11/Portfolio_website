@@ -18,7 +18,8 @@ export const skillsData = [
   'Figma',
   'Firebase',
   'MaterialUI',
-  'Nginx'
+  'Nginx',
+  'profile'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
