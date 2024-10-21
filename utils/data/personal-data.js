@@ -1,14 +1,14 @@
 export const personalData = {
-  name: "Tony Wilson",
-  profile: '/profile.png',
+  name: "Choy Arnold",
+  profile: '/public/svg/skills/profile.png',
   designation: "Software Engineer",
-  description: "Innovative Full-Stack Developer with 10 years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
-  email: 'tonywilson930727@gmail.com',
-  phone: '+ 1 647 5588874',
-  github: 'https://github.com/tony930727',
-  telegram: 'https://t.me/TonyWilson0727',
-  twitter: 'https://x.com/TonyWilson0727',
-  leetcode: "https://leetcode.com/tonywilson0727",
-  devUsername: "TonyWilson0727",
-  resume: "https://docs.google.com/document/d/1wMyfWpuE6zNBaCtNS7t931eH-ub7zGH5iA7DuD0NXXw/edit?usp=sharing"
+  description: "Innovative Full-Stack Developer with 8+ years of experience, specializing in smart contracts and web3 technologies. Adept at designing and implementing scalable applications and solutions, delivering high-quality results in collaborative environments.",
+  email: 'unityengineer0101@gmail.com',
+  phone: '+ 856 20940 90645',
+  github: 'https://github.com/Songkham11',
+  telegram: 'https://t.me/unityengineer0101',
+  twitter: 'https://x.com/unityengineer0101',
+  leetcode: "https://leetcode.com/unityengineer0101",
+  devUsername: "unityengineer0101",
+  resume: "https://drive.google.com/file/d/1_tg8_I7BvajOC_QNjrmu1CqLeKZVaCSn/view?usp=sharing"
 }

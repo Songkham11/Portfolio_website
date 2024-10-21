@@ -13,7 +13,7 @@ function HeroSection() {
   return (
     <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
       <Image
-        src="/hero.svg"
+        src="/public/svg/skills/hero.svg"
         alt="Hero"
         width={1572}
         height={795}
@@ -101,7 +101,7 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Tony Wilson</span>
+                <span className="text-amber-300">Choy Arnold</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
